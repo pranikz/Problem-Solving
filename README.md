@@ -1,5 +1,5 @@
 # Problem-Solving
- Hackerearth - Updating daily learning on Data Structures and Algorithms using Java 
+Updating solved problems on Data Structures and Algorithms using Java. 
 
 ## [Day1](https://github.com/pranikz/Problem-Solving/tree/master/Day%201)
 
