@@ -17,3 +17,5 @@ Updating solved problems on Data Structures and Algorithms using Java.
 
   [question](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/)
   [answer](https://github.com/pranikz/Problem-Solving/blob/master/Day%201/pairshavingsimm.java)
+  
+  ## [Day2]
